@@ -1,0 +1,31 @@
+Order ID,Product Name,Product Category,Order Date,Order Quantity,Unit Price,Customer Name,Customer Email,Shipping Address
+ORD001,Apple iPhone 12,Electronics,15-02-2022,2,799.99,John Doe,john.doe@example.com,123 Main St
+ORD002,Samsung Galaxy S21,Electronics,14-02-2022,1,699.99,Jane Smith,jane.smith@example.com,456 Elm St
+ORD003,Amazon Echo Dot,Electronics,13-02-2022,3,49.99,Bob Johnson,bob.johnson@example.com,789 Oak St
+ORD004,Sony PlayStation 5,Electronics,12-02-2022,1,499.99,Sara Lee,sara.lee@example.com,1011 Pine St
+ORD005,Microsoft Surface Laptop 4,Electronics,11-02-2022,2,1299.99,Mike Brown,mike.brown@example.com,1213 Maple St
+ORD006,Apple AirPods Max,Electronics,10-02-2022,1,549.99,Emily Chen,emily.chen@example.com,1415 Cherry St
+ORD007,Fitbit Versa 3,Electronics,09-02-2022,2,229.99,David Kim,david.kim@example.com,1617 Walnut St
+ORD008,HP Pavilion Gaming Desktop,Electronics,08-02-2022,1,899.99,Grace Lee,grace.lee@example.com,1819 Cedar St
+ORD009,Lenovo IdeaPad 5 Laptop,Electronics,07-02-2022,3,699.99,Chris Brown,chris.brown@example.com,2021 Pine St
+ORD010,Logitech G502 HERO Gaming Mouse,Electronics,06-02-2022,2,79.99,Mary Johnson,mary.johnson@example.com,2223 Maple St
+ORD011,Bose QuietComfort Earbuds,Electronics,05-02-2022,1,279.99,Adam Smith,adam.smith@example.com,2425 Cherry St
+ORD012,Apple iPad Pro,Electronics,04-02-2022,1,999.99,Katie Lee,katie.lee@example.com,2627 Walnut St
+ORD013,Google Nest Hub Max,Electronics,03-02-2022,2,229.99,Joe Brown,joe.brown@example.com,
+ORD014,Samsung 4K Smart TV,Electronics,02-02-2022,1,1199.99,Michelle Kim,,3031 Cedar St
+ORD015,ASUS ROG Strix G17 Laptop,Electronics,01-02-2022,,1599.99,Justin Lee,justin.lee@example.com,3233 Pine St
+ORD016,Apple Watch Series 7,Electronics,31-01-2022,1,399.99,Sophia Chen,sophia.chen@example.com,3435 Maple St
+ORD017,HP Spectre x360 Laptop,Electronics,30-01-2022,2,1299.99,Alex Johnson,alex.johnson@example.com,3637 Cherry St
+ORD018,GoPro HERO10 Black,Electronics,29-01-2022,1,499.99,Sam Lee,sam.lee@example.com,3839 Walnut St
+ORF019,Apple MacBook Pro,Electronics,28-02-2022,1,1999.99,Mary Johnson,mary.johnson@example.com,123 Main St
+ORF020,Samsung Galaxy Tab S7,Electronics,27-02-2022,2,649.99,Adam Smith,adam.smith@example.com,456 Elm St
+ORF021,Amazon Fire TV Stick 4K,Electronics,26-02-2022,3,49.99,Katie Lee,katie.lee@example.com,789 Oak St
+ORF022,Dell XPS 13 Laptop,Electronics,25-02-2022,1,1299.99,Joe Brown,joe.brown@example.com,1011 Pine St
+ORF023,Google Pixel 6,Electronics,24-02-2022,2,799.99,Michelle Kim,michelle.kim@example.com,1213 Maple St
+ORF024,Apple Magic Keyboard,Electronics,23-02-2022,1,99.99,Justin Lee,justin.lee@example.com,1415 Cherry St
+ORF025,Bose SoundLink Revolve+ Speaker,Electronics,01-03-2023,2,299.99,Andrew Kim,andrew.kim@example.com,123 Main St
+ORF026,HP Envy 13 Laptop,Electronics,28-02-2023,1,999.99,Emily Lee,emily.lee@example.com,456 Elm St
+ORF027,Sony WH-1000XM4 Headphones,Electronics,27-02-2023,3,349.99,William Smith,william.smith@example.com,789 Oak St
+ORF028,Canon EOS M50 Mark II Camera,Electronics,26-02-2023,1,849.99,Olivia Davis,olivia.davis@example.com,1011 Pine St
+ORF029,Fitbit Charge 5,Electronics,25-02-2023,2,179.99,Ethan Brown,ethan.brown@example.com,1213 Maple St
+ORF030,Apple iPhone 13,Electronics,24-02-2023,1,1399.99,Emma Garcia,emma.garcia@example.com,1415 Cherry St
